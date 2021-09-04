@@ -4,4 +4,4 @@
 QQ: 853974536
 
 ![](https://github-readme-stats.vercel.app/api?username=Seng-Jik&show_icons=true&theme=tokyonight)    
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Seng-Jik&show_icons=true&title_color=FF1493&icon_color=FF00FF&text_color=FF69B4&count_private=true&bg_color=0,ADD8E6,FFC0CB,FFF,FFC0CB,ADD8E6&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seng-Jik&layout=compact&hide_border=true&langs_count=10)
