@@ -4,4 +4,4 @@
 QQ: 853974536
 
 ![](https://github-readme-stats.vercel.app/api?username=Seng-Jik&show_icons=true&theme=tokyonight)    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seng-Jik&layout=compact&hide_border=true&langs_count=10)
+
